@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://airtravelnow.online
+
+# Sitemaps
+Sitemap: https://airtravelnow.online/sitemap.xml
